@@ -1,1 +1,3 @@
-/entornos/
+bin
+.settings
+.classpath
